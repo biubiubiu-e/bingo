@@ -1,0 +1,15 @@
+{
+  "msg": "查询成功",
+  "code": "0000",
+  "data": {
+    "id": 1,
+    "creditApplyAmount": 10000000,
+    "notAssoAmount": 334670,
+    "assoAmount": 0,
+    "passCreditApplyNumber": 5,
+    "passTotalAmount": 456549,
+    "examingTotalAmount": 112768,
+    "leftAmount": 9665330,
+    "approvalingSecondCreditNumber": 5
+  }
+}
